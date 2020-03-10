@@ -1,0 +1,2083 @@
+<!-- <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> -->
+<!-- <title>Contractor Connect LLC Agent Script</title> --!>
+
+<!-- CSS Design: Kyle Mittica -->
+<!-- Java Script Functions: Kyle Mittica -->
+<!-- html Design: Kyle Mittica -->
+<!-- Book Author: Kyle Mittica --!>
+<!-- Hours: 60 [Really? Yes.]-->
+
+<!-- Minimalist Script Design --!>
+
+<!-- Markup Text | Min CSS | Min JS --!>
+<!-- Business: Contractor Connect LLC --!>
+<!-- APP: Five9 Cloud --!>
+<!-- Adobe [Brackets] --!>
+
+<!-- No CDN | No SRC | No DIR | Inline Only --!>
+
+<!--
+.
+..
+...
+....
+.....
+......
+.......
+........
+.........
+..........
+...........
+............
+.............
+..............
+...............
+................
+.................
+..................
+...................
+....................
+-->
+
+<!-- [START] Table Of Contents | Use CTRL + F & Type In Tag To Find Section & Make Edits Or Setup New Clients [START] -->
+
+<!-- 1. Market | Hours | Locations | Trades | Highlights [TAG: P1] -->
+<!-- 2.              [TAG: P2] -->
+<!-- 3.              [TAG: P3] -->
+<!-- 4.              [TAG: P4] -->
+<!-- 5.              [TAG: P5] -->
+<!-- 6.              [TAG: P6] -->
+<!-- 7.              [TAG: P7] -->
+<!-- 8.              [TAG: P8] -->
+<!-- 9.              [TAG: P9] -->
+<!-- 10.             [TAG: P10] -->
+<!-- 11.             [TAG: P11] -->
+<!-- 12.             [TAG: P12] -->
+<!-- 13.             [TAG: P13] -->
+<!-- 14.             [TAG: P14] -->
+<!-- 15.             [TAG: P15] -->
+<!-- 16.             [TAG: P16] -->
+<!-- 17.             [TAG: P17] -->
+<!-- 18.             [TAG: P18] -->
+<!-- 19.             [TAG: P19] -->
+<!-- 20.             [TAG: P20] -->
+
+<!-- [END] Table Of Contents | Use CTRL + F & Type In Tag To Find Section & Make Edits Or Setup New Clients [END] -->
+
+<!--
+....................
+...................
+..................
+.................
+................
+...............
+..............
+.............
+............
+...........
+..........
+.........
+........
+.......
+......
+.....
+....
+...
+..
+.
+-->
+
+
+<!-- [START] Page Style [START] -->
+<style>
+
+    font-family: "Helvetica", sans-serif;
+    
+</style>
+
+<!-- [END] Page Style [END] -->
+
+<html>
+     <head>
+        <title>Contractor Connect LLC Agent Script</title>
+     </head>
+    
+<body>
+     <body style="color: black; font-size: 16">
+           
+<!-- [START] [START] [START] (lang= CSS) [START] [START] [START] -->    
+    
+<!-- [START] Table Styles [START] -->
+           
+           
+       <style>
+    
+    table.blueTable {
+  border: 1px solid #FFFFFF;
+  background-color: #EEEEEE;
+  width: 37%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.blueTable td, table.blueTable th {
+  border: 1px solid #AAAAAA;
+  padding: 2px 2px;
+}
+table.blueTable tbody td {
+  font-size: 13px;
+    font-weight: bold;
+}
+table.blueTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable thead {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable tfoot td {
+  font-size: 14px;
+}
+table.blueTable tfoot .links {
+  text-align: right;
+}
+table.blueTable tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+    </style>               
+        
+                 
+     <style>
+    
+    table.blueTable2 {
+  border: 1px solid #FFFFFF;
+  background-color: #EEEEEE;
+  width: 25%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.blueTable2 td, table.blueTable2 th {
+  border: 1px solid #AAAAAA;
+  padding: 2px 2px;
+}
+table.blueTable2 tbody td {
+  font-size: 13px;
+    font-weight: bold;
+}
+table.blueTable2 tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.blueTable2 thead {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.blueTable2 thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #D0E4F5;
+}
+table.blueTable2 thead th:first-child {
+  border-left: none;
+}
+
+table.blueTable2 tfoot td {
+  font-size: 14px;
+}
+table.blueTable2 tfoot .links {
+  text-align: right;
+}
+table.blueTable2 tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+    </style>           
+           
+    
+<style>   
+/*-- [START] Market Deets Table [START] --*/
+    
+         table.HoursTable {
+  table-layout: fixed;
+        }
+        
+    table.HoursTable{
+  border: 1px solid #FFFFFF;
+  background-color: #EEEEEE;
+  width: 30%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.HoursTable td, table.HoursTable th {
+  border: 1px solid #AAAAAA;
+  padding: 2px 2px;
+}
+table.HoursTable tbody td {
+  font-size: 8px;
+    font-weight: bold;
+}
+table.HoursTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.HoursTable thead {
+  background: #1C6EA4;
+  background: linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table.HoursTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #D0E4F5;
+}
+table.HoursTable thead th:first-child {
+  border-left: none;
+}   
+/*-- [END] Market Deets Table [END] --*/
+</style>
+    
+<style>  
+/*-- [START] Voice Dispo Table [START] --*/       
+     table.DispoTable {
+  table-layout: fixed;
+        }
+        
+    table.DispoTable{
+  border: 1px solid #FFFFFF;
+  background-color: #EEEEEE;
+  width: 25%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.DispoTable td, table.DispoTable th {
+  border: 1px solid #AAAAAA;
+  padding: 2px 2px;
+}
+table.DispoTable tbody td {
+  font-size: 8px;
+    font-weight: bold;
+}
+table.DispoTable tr:nth-child(even) {
+  background: #D0E4F5;
+}
+table.DispoTable thead {
+  background: #FFFFFF;
+  background: linear-gradient(top, #FFFFFF 0%, #FFFFFF 66%, #FFFFFF 100%);
+  background: linear-gradient(top, #000000 0%, #000000 66%, #000000 100%);
+  background: linear-gradient(to bottom, #000000 0%, #000000 66%, #000000 100%);
+  border-bottom: 2px solid #444444;
+}
+table.DispoTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  text-align: center;
+  border-left: 2px solid #D0E4F5;
+}
+table.DispoTable thead th:first-child {
+  border-left: none;
+}   
+/*-- [END] Voice Dispo Table [END] --*/    
+</style> 
+    
+<!-- [END] Table styles [END] --> 
+    
+<!-- [START] Fake Buttons For Project Types | Additional Qualifier | Market Responses [START] -->
+       
+<style>  
+/*-- [START] Blue Button [START] --*/           
+            .button {
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 7px 14px;
+   -webkit-border-radius: 40px;
+   -moz-border-radius: 40px;
+   border-radius: 20px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   box-shadow: rgba(0,0,0,1) 0 2px 0;
+   text-shadow: rgba(0,0,0,.4) 0 2px 0;
+   color: white;
+   font-size: 16px;
+   font-family: serif;
+   text-decoration: none;
+   vertical-align: center;
+   }
+.button:hover {
+   border-top-color: darkcyan;
+   background: darkcyan;
+   color: darkcyan;
+   cursor: pointer;
+    transition: all .5s ease; /*Do I want this? - tranny speed */
+    border-radius:40%; /*Do I want this? - shrink on hover*/
+   }
+    
+.button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+/*-- [END] Blue Button [END] --*/   
+</style>
+    
+<style>    
+/*-- [START] No HT - Red Button [START] --*/          
+          .noHTbutton {
+   border-top: 1px solid #000000;
+   background: #000000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#f50c0c), to(#000000));
+   background: -webkit-linear-gradient(top, #f50c0c, #000000);
+   background: -moz-linear-gradient(top, #f50c0c, #000000);
+   background: -ms-linear-gradient(top, #f50c0c, #000000);
+   background: -o-linear-gradient(top, #f50c0c, #000000);
+   padding: 7px 14px;
+   -webkit-border-radius: 40px;
+   -moz-border-radius: 40px;
+   border-radius: 40px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   box-shadow: rgba(0,0,0,1) 0 2px 0;
+   text-shadow: rgba(0,0,0,.4) 0 2px 0;
+   color: white;
+   font-size: 16px;
+   font-family: serif;
+   text-decoration: none;
+   vertical-align: center;
+   }
+.noHTbutton:hover {
+   border-top-color: #9c0000;
+   background: #9c0000;
+   color: #ccc;
+     cursor: pointer;
+    transition: all .5s ease; /*Do I want this? - tranny speed */
+    border-radius:40%; /*Do I want this? - shrink on hover*/
+   }
+.noHTbutton:active {
+   border-top-color: #5c1b1b;
+   background: #5c1b1b;
+   }               
+/*-- [END] No HT - Red Button [END] --*/
+</style>
+        
+           
+<style> 
+ /*-- [START] Yes HT - Green Button [START] --*/ 
+          .yesHTbutton {
+      border-top: 1px solid #0d630e;
+   background: #0c4011;
+   background: -webkit-gradient(linear, left top, left bottom, from(#39ac39), to(#000000));
+   background: -webkit-linear-gradient(top, #39ac39, #0c4011);
+   background: -moz-linear-gradient(top, #39ac39, #0c4011);
+   background: -ms-linear-gradient(top, #39ac39, #0c4011);
+   background: -o-linear-gradient(top, #39ac39, #0c4011);
+   padding: 7px 14px;
+   -webkit-border-radius: 40px;
+   -moz-border-radius: 40px;
+   border-radius: 40px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   box-shadow: rgba(0,0,0,1) 0 2px 0;
+   text-shadow: rgba(0,0,0,.4) 0 2px 0;
+    color: white;
+   font-size: 16px;
+   font-family: serif;
+   text-decoration: none;
+   vertical-align: center;
+   }
+.yesHTbutton:hover {
+   border-top-color: #0f592f;
+   background: #0f592f;
+   color: #ffffff;
+   cursor: pointer;
+   transition: all .5s ease; /*Do I want this? - tranny speed */
+   border-radius:40%; /*Do I want this? - shrink on hover*/
+   
+   }
+.yesHTbutton:active {
+   border-top-color: #03ed84;
+   background: #03ed84;
+   }
+     /*-- [END] Yes HT - Green Button [END] --*/ 
+    </style>
+    
+<style>
+/*-- [START] Black Button [START] --*/   
+        .AQ {
+   border-top: 1px solid #FFFFFF;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#323232), to(#000000));
+   background: -webkit-linear-gradient(top, #323232, #000000 );
+   background: -moz-linear-gradient(top, #323232, #000000, );
+   background: -ms-linear-gradient(top, #323232, #000000 );
+   background: -o-linear-gradient(top, #323232, #000000 );
+   padding: 7px 14px;
+   -webkit-border-radius: 40px;
+   -moz-border-radius: 40px;
+   border-radius: 20px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   box-shadow: rgba(0,0,0,1) 0 2px 0;
+   text-shadow: rgba(0,0,0,.4) 0 2px 0;
+   color: black;
+   font-size: 16px;
+   font-family: serif;
+   text-decoration: none;
+   vertical-align: center;
+}
+      
+/*-- [END] Black Button [END] --*/
+</style>
+    
+<style>
+/*-- [START] Copy Button [START] --*/           
+            .Copy {
+   border-top: 1px solid #FFFFFF;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
+   background: -webkit-linear-gradient(top, #000000, #000000);
+   background: -moz-linear-gradient(top, #000000, #000000);
+   background: -ms-linear-gradient(top, #000000, #000000);
+   background: -o-linear-gradient(top, #000000, #000000);
+   padding: 1px 1px;
+   -webkit-border-radius: 1px;
+   -moz-border-radius: 1px;
+   border-radius: 1px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 2px 0;
+   box-shadow: rgba(0,0,0,1) 0 2px 0;
+   text-shadow: rgba(0,0,0,.4) 0 2px 0;
+   color: #000000;
+   font-size: 5px;
+   font-family: serif;
+   text-decoration: none;
+   vertical-align: center;
+   }
+.Copy:hover {
+   border-top-color: #000000;
+   background: #000000;
+   color: #FFFFFF;
+   cursor: pointer;
+    transition: all 1s ease; /*Do I want this? - tranny speed */
+    border-radius:40%; /*Do I want this? - shrink on hover*/
+    box-shadow: inset 0 0 0 25px #000000 ; /*Do I want this? color change*/
+    
+   }
+.Copy:active {
+   border-top-color: #000000;
+   background: #000000;
+   } 
+/*-- [END] Copy Button [END] --*/  
+</style>       
+         
+<style>
+/*-- [START] Yellow Highlight Rebuttals [START] --*/   
+    .buttons a3 {
+      font-size: 16px;
+    }
+    .buttons a3:hover {
+      cursor:pointer; 
+      font-size: 16px;
+      background: yellow;
+    }
+    .buttons a3:active{
+    background: pink;
+    }    
+/*-- [END] Yellow Highlight Rebuttals [END] --*/ 
+</style>
+    
+<!-- [END] Fake Buttons For Project Types | Additional Qualifier | Market Responses [END] -->
+        
+<!-- [START] Blink Animation [Start] --**********************
+    
+<style>
+/*-- [START] Blinker [START] [DORMANT] --*/ 
+    
+      blink {
+        animation: blinker 0.6s linear infinite;
+        color: BLACK;
+       }
+       .blink-two {
+         animation: blinker-two 5s linear 2;
+       }
+       @keyframes blinker-two {  
+         0% { opacity: 0; }
+       }
+/*-- [END] Blinker [END] --*/  
+</style>
+<!-- [END] Blink Animation [END] -->     
+
+<!-- [END] [END] [END] (lang= CSS) [END] [END] [END] -->
+    
+<!-- [START] [START] [START] (lang= Java Script) [START] [START] [START] --> 
+         
+         <script>
+
+function copyToClipboard(elementId) {
+
+  // Create a "hidden" input
+  var aux = document.createElement("input");
+
+  // Assign it the value of the specified element
+  aux.setAttribute("value", document.getElementById(elementId).innerHTML);
+
+  // Append it to the body
+  document.body.appendChild(aux);
+
+  // Highlight its content
+  aux.select();
+
+  // Copy the highlighted text
+  document.execCommand("copy");
+
+  // Remove it from the body
+  document.body.removeChild(aux);
+
+}
+
+</script>
+    
+<script>    
+/*-- [START] FUNCTION: Copy [START] --*/   
+ function copy(that){
+var inp =document.createElement('input');
+document.body.appendChild(inp)
+inp.value =that.textContent
+inp.select();
+document.execCommand('copy',false);
+} 
+/*-- [END] FUNCTION: Copy [END] --*/      
+</script> 
+    
+<script>
+/*--- [START] FUNCTION: Rebuttal Toggle [START] -- "DialAttempt", "VM", "shyBTHpro" "styleBTHpro", "materialBTHpro", "cbBTHpro", "emailBTHpro", ---*/ 
+    /*-- Removed "shyADQpro2" "shyRFGpro", "styleRFGpro", "materialRFGpro", "cbRFGpro", "emailRFGpro", "shySIDpro", "styleSIDpro", "materialSIDpro", "cbSIDpro", "emailSIDpro",  -- */
+
+     var divs = ["IfNoEST", "IFcbGreet", "MarketDeets", "MarketDeets2", "InfoGreet", "FreeWINgreet", "BallparkGreet", "EnoughGreet", "IfNoHo", "styleHo", "materialHo", "shyWINpro", "styleWINpro", "freeWINpro", "materialWINpro", "cbWINpro", "emailWINpro", "preCONcb", "clientREFUSE", "clientHTinsist", "OS1", "OS2", "OS3", "OS4", "OS5", "OS6", "OS7", "OS8", "OS9", "OS10", "OS11", "OS12", "OS13", "OS14", "OS15", "OS16"];
+        var visibleDivId = null;
+        function divVisibility(divId) {
+          if(visibleDivId === divId) {
+            visibleDivId = null;
+          } else {
+            visibleDivId = divId;
+          }
+          hideNonVisibleDivs();
+        }
+        function hideNonVisibleDivs() {
+          var i, divId, div;
+          for(i = 0; i < divs.length; i++) {
+            divId = divs[i];
+            div = document.getElementById(divId);
+            if(visibleDivId === divId) {
+              div.style.display = "block";
+            } else {
+              div.style.display = "none";
+            }
+          }
+        }
+/*-- [END] FUNCTION: Rebuttal Toggle [END] --*/
+</script>
+<!-- [END] [END] [END] (lang= Java Script) [END] [END] [END] -->     
+           
+           
+             <style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted light;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+     opacity: 0;
+     transition: opacity 1s;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    width: 190px;
+    bottom: 100%;
+    left: 40%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    position: absolute;
+    opacity: 1;
+}
+</style>     
+           
+           
+<style>
+    
+.tooltipR {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted light;
+}
+
+.tooltipR .tooltiptext {
+    visibility: hidden;
+     opacity: 0;
+     transition: opacity 1s;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    width: 190px;
+    bottom: 100%;
+    left: 40%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  
+}
+
+.tooltipR .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+}
+
+.tooltipR:hover .tooltiptext {
+    visibility: visible;
+    position: absolute;
+    opacity: 1;
+}
+</style>    
+        
+<!-- [START] [START] [START] lang= html | Actual Page/Script [START] [START] [START] -->
+    
+<!--[START] Market | Hours | Locations | Trades | Highlights [START]--> <!--[TAG: P1] -->
+        
+<a3 href="#" onclick="divVisibility('MarketDeets');">
+        
+            <span style='font-size:20; color:black; cursor:pointer'><b><u>Abby Windows and Exteriors</u></span></a3>
+    
+    
+              
+<div id="MarketDeets" style="display: none;">
+         
+<!-- State Name + Hours -->
+    
+    <br>
+         
+    <span style='color:#C00000'><u>Hours</u></span></br> <span style='color:black'> Mon-Fri: 8am - 5pm (CST)</span><br/><br/>
+
+<span style='color:#C00000'><u>Address</u></br> <span style='color:black'>New Berlin, WI - <span style='color:black'>16646 W National Ave., 53151</span><br/><br/>
+
+    <span style='color:#C00000'><u>Trades</u></br> <span style='color:black'> Windows (3+)</span><br/><br/>
+
+<span style='color:#C00000'><u>Highlights</u><br/><span style='color:black'> * A+ BBB Rated<br/>
+
+** Offer a Limited Lifetime Warranty<br/>
+
+*** Competitive pricing with financing options tailored to your needs<br/></span>
+    
+    
+          </div>  
+       
+    
+    <br/>
+    
+
+<!--[END] Market | Hours | Locations | Trades | Highlights [END] -->
+
+      
+    
+    <!--[START] Smart Dispo Suggestion [START] -->
+    
+     <script>
+            
+            var myVar8 ;
+		function delayCALLvm() {
+			myVar8 = setTimeout(callVM,1000)
+;
+			
+		}
+            
+            
+			function callVM() {
+		
+                /*--- Variable for dialing attempts ---*/
+                var calls = document.getElementById("calls").innerHTML;
+                				
+				/*--- Variable to quickly grab our text box ---*/
+				var text = document.getElementById("callVMprint");
+                
+                var VMscript = document.getElementById("VMscript").innerHTML;
+				
+				/*--- Figure out the current time ---*/
+				
+				if (calls == 1) {
+					text.innerHTML = VMscript; }
+                    
+                    else {
+                    text.innerHTML = "";
+				}
+			}
+        
+            
+		</script>     
+        
+        
+        
+	
+        
+        
+    
+    
+    
+    
+    
+   
+
+
+      
+	
+
+
+        
+        
+		<script>
+            
+            var myVar ;
+		function func1() {
+			myVar = setTimeout(insertDay,1000)
+;
+			
+		}
+            
+            window.onload = delayCALLvm(); func1()
+            
+			function insertDay() {
+		         
+                /*--- Variable for dialing attempts ---*/
+                var calls = document.getElementById("calls").innerHTML;
+				
+				/*--- Variable to quickly grab our text box ---*/
+				var text = document.getElementById("dayBox");
+				
+				/*--- Figure out the current time ---*/
+				var currentTime = new Date();
+				var currentDay = currentTime.getDay();
+				var currentHour = currentTime.getHours();
+				
+				/*--- Setup weekdays ---*/
+				var weekDays = [
+					'Sunday'
+					,'Monday'
+					,'Tuesday'
+					,'Wednesday'
+					,'Thursday'
+					,'Friday'
+					,'Saturday'];
+				
+				/*--- Actual function ---*/
+                /*--- Zero Call ---*/
+				if (calls == 0) {
+					text.innerHTML = "CB-3min<br><br>New Berlin, WI <br>";
+				}
+				else {
+                    
+					/*--- Between Monday and Friday ---*/
+					if (currentDay >= 1 && currentDay <= 5) {
+						if (currentHour < 9) {
+							text.innerHTML = "9am<br><br>New Berlin, WI <br>";
+						}
+						else if (currentHour >= 9 && currentHour < 13) {
+							text.innerHTML = "1pm<br><br>New Berlin, WI <br>";
+						}
+						else if (currentHour >= 13 && currentHour < 17) {
+							text.innerHTML = "5pm<br><br>New Berlin, WI <br>";
+						}
+						else {
+							text.innerHTML = "9am<br><br>New Berlin, WI <br>";
+						}
+					}                        
+				}
+			}
+            
+		</script>
+
+
+
+
+          
+          <br>
+          
+
+         
+         <span href="#" onclick="divVisibility('MarketDeets2');" style='font-size:20;background-color:lightgray;color:black; cursor:pointer'><b>Set Voice Disposition</span></b>
+         
+         <span style='font-size: 20; color:black'><b>|</b></span></a3>
+    
+       <span id="testBox" class=db style='font-size:20; font-weight: bold; background-color:lightgray;color:black'></span>
+         
+         
+    
+    
+	
+        
+		<span id="dayBox" class=db style='font-size: 20; font-weight: bold; background-color:lightgray; color:black'></span>
+    
+        
+        
+      
+    
+             <div id="MarketDeets2" style="display: none;">
+             
+                 <br>
+                 
+             <span style='font-size: 20; font-weight: bold; color: black'>Location:</span> <span style='font-size: 20; font-weight: bold; color: red'>@Customer.street@</span>
+         
+                 
+        
+     
+                <span id="myaddress" style='font-size: 0; font-weight: bold; color: red'>@Customer.street@</span>
+                
+          <span id="calls" style='font-size: 0'>@Customer.Dialing Attempts@</span>  
+            
+                 
+                 
+                 
+           
+                
+            
+        
+                 
+                 
+       <table class="blueTable">
+<thead>
+<tr>
+<th>Day</th>
+<th>Disposition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Monday</td><td>9am | 1pm | 5pm</td></tr>
+<tr>
+<td>Tuesday</td><td>9am | 1pm | 5pm</td></tr>
+<tr>
+<td>Wednesday</td><td>9am | 1pm | 5pm</td></tr>
+<tr>
+<td>Thursday</td><td>9am | 1pm | 5pm</td></tr>
+<tr>
+<td>Friday</td><td>9am | 1pm | 5pm</td></tr>
+<tr>
+<td>Saturday</td><td>Closed Use Monday</td></tr>
+</tbody>
+</tr>
+</table>
+        
+        
+
+   <a style="text-decoration:none" href="#" onclick="document.getElementById('DialAttempt').style.display='block'; return false;"><b>
+       
+       
+       <span style='font-size: 20; font-weight: bold; color: black'>Dial Attempts:</span>
+       <span style='font-size:20; color:red'> @Customer.Dialing Attempts@</span></b></a> 
+        
+        <br>
+    <br>
+    
+        <div style="display: none;" id="DialAttempt">
+   
+                    <table class="blueTable2">
+<thead>
+<tr>
+<th style='font-size: 20; font-weight: bold;'>Dial Attempt</th>
+<th style='font-size: 20; font-weight: bold;'>Action</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style='font-size: 15; font-weight: bold;'>BLANK -or- 0</td><td style='font-size: 15; font-weight: bold;'>3min CB</td></tr>
+<tr>
+<td style='font-size: 15; font-weight: bold;'>1</td><td style='font-size: 15; font-weight: bold;'><a style="text-decoration:none; color:#C00000" href="#" onclick="document.getElementById('VM').style.display='block'; return false;"><b>Voicemail</b></a></td></td></tr>
+<tr>
+<td style='font-size: 15; font-weight: bold;'>2 | 3 | 4 | 5 | 6 | 7 | 8 | 9</td><td style='font-size: 15; font-weight: bold;'>Set Voice Dispo</td></tr>
+<tr>
+
+</tbody>
+</tr>
+</table>
+
+        
+        
+        
+        <div id="VM" style="display: none;">
+            
+            <span style='font-size:18; color: #C00000'><br><b>Hello Mr. /Mrs. @Customer.first_name@ @Customer.last_name@, I'm calling regarding a request you submitted to be contacted for a free estimate." Please call toll free 888.387.0882 to discuss the details of your @Customer.project type@ estimate. Thank you and have a great day.&nbsp;</b></span><span style='font-size:15;background-color:lightgray;color:black'> <b> Set Voice Disposition</span>&nbsp;|&nbsp;<span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span><br>
+        
+        
+        </div></div></div></div>  
+              
+    </div> </div></div>
+          
+              
+
+        
+
+
+ 
+
+<span id="callVMprint" style='font-size:18;'><b></b></span>
+
+     <br>
+               
+      <span id="VMscript" style='font-size: 0'><br><b>Leave Voicemail:</b> <span style='color: #C00000'><b>Hello Mr. /Mrs. @Customer.first_name@ @Customer.last_name@, I'm calling regarding a request you submitted to be contacted for a free estimate." Please call toll free 888.387.0882 to discuss the details of your @Customer.project type@ estimate. Thank you and have a great day.&nbsp;</b></span>
+               
+                      
+                
+<!--[END] Smart Dispo Suggestion [END] -->
+          
+          
+  
+ <!-- ---------- Line ---------- -->
+<hr style="height:2px;border:none;color:black;background-color:black;">
+<!-- ---------- Line ---------- -->    
+      
+      
+           
+           
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div">
+
+<!-- [START] Greeting [START] -->     
+    
+        <p style='font-size: 18; font-weight: normal'></b>Hello, this is @Agent.full_name@ calling for <b>@Customer.first_name@ @Customer.last_name@</b> about a request for a FREE <b>@Customer.project type@</b> estimate?
+    
+    
+<br/>
+
+       <a3 href="#" onclick="divVisibility('IfNoEST');" style="font-size:13; color:darkblue"><b> No Estimate Needed</b></a3>
+          <span style="font-size:13; color: black"><b>|</b></span>
+         <a3 href="#" onclick="divVisibility('IFcbGreet');"style="font-size:13;color:darkblue"><b>Call Me Back</b></a3>
+             <span style="font-size:13; color: black"><b> |</b></span>
+           <a3 href="#" onclick="divVisibility('MarketDeets');"style="font-size:13; color:darkblue"><b>Tell Me About Your Company</b></a3> 
+               <span style="font-size:13; color: black"><b>|</b></span>
+             <a3 href="#" onclick="divVisibility('InfoGreet');"style="font-size:13; color:darkblue"><b>How Did You Get My Number/Info</b></a3> 
+                 <span style="font-size:13; color: black"><b>|</b></span>
+               <a3 href="#" onclick="divVisibility('FreeWINgreet');"style="font-size:13; color:darkblue"><b>Free/Govt Programs</b></a3>
+                   <span style="font-size:13; color: black"><b>|</b></span>
+                 <a3 href="#" onclick="divVisibility('BallparkGreet');"style="font-size:13; color:darkblue"><b>Ballpark Price</b></a3>
+                     <span style="font-size:13; color: black"><b>|</b></span>
+                   <a3 href="#" onclick="divVisibility('EnoughGreet');"style="font-size:13; color:darkblue"><b>I Have Enough Estimates</b></a3>
+        
+       <div id="IfNoEST" style="display: none;"> 
+         <span style='font-size:18; color:#C00000'><b>Oh, you're not in need of a FREE @Customer.project type@ estimate?</span>
+           <br/>
+             <span style='font-size:18; color:black'>Yes - 
+               <span style='color:#C00000'>Continue qualifying.</span>
+                 <br/> 
+                   <span style='font-size:18; color:black'>No - 
+                     <span style='font-size:18; color:#C00000'>I'm sorry to bother you and have a great day!
+                       <span style='font-size:15; background-color:lightgray; color:black'>&nbsp;Set Voice Disposition</span>
+                         <span style='font-size:15; color:black'>&nbsp;|&nbsp;</span>
+                           <span style='font-size:15; background-color:lightgray; color:black'>&nbsp;Not qualified</span></span></span>       </span></div>
+        
+      <div id="IFcbGreet" style="display: none;"> 
+        <span style='font-size:18; color:#C00000'>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</span>
+          <br/>
+            <span style='font-size:18; color:black'>Yes -
+              <span style='color:#C00000'>Continue Qualifying.</span>
+                <br/>
+                  <span style='color:black'>No -
+                    <span style='color:#C00000'>Schedule next voice disposition or requested call back time.</span>&nbsp;
+                      <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                        <span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span>
+                          <span style='font-size:12; color:red'>(Callbacks should not exceed 2 weeks)</span>
+                            <br></span></span></div>
+        
+      <div id="MarketDeets" style="display: none;">
+        <span style='font-size:18; color:#C00000'>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</span></div>
+          
+        
+      <div id="InfoGreet" style="display: none;">
+        <span style='font-size:18; color:#C00000'>I apologize but I don't have a lot of transparency as to what channel the request came from. I do not want to bother you; Were you looking for a FREE estimate on a @Customer.project type@ -  Abby Windows and Exteriors is A+ BBB Rated, and offers a FREE - no obligation estimate.</span></div>
+        
+      <div id="FreeWINgreet" style="display: none;">
+        <span style='font-size:18; color:#C00000'>I’m just here to verify your request and address and then I’ll connect you to the manager of the @Customer.project type@  department manager who can discuss those programs and any other options available.</span>
+          <br/>
+            <span style='font-size:18; color:black'>Yes -</span>
+              <span style='font-size:18; color:#C00000'>Continue qualifying.</span>
+                <br/>
+                  <span style='font-size:18; color:black'>No -</span>
+                    <span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;
+                      <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                        <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div>
+
+       <div id="BallparkGreet" style="display: none;">
+          <span style='font-size:18; color:#C00000'>I'm an operator here to verify your request and address, and then connect you to the manager of the @Customer.project type@ department. They can go over the details of your project and assist with the FREE estimate.</span>
+            <br/>
+              <span style='font-size:18; color:black'>If asked about 'ballpark' pricing again -</span>
+                <span style='font-size:18; color:#C00000'>I'm not 100% sure but it will only take a minute to find out.</span></div>
+        
+         <div id="EnoughGreet" style="display: none;">
+           <span style='font-size:18; color:#C00000'>Well, I apologize for bugging you, but this company is A+ BBB Rated, and offers a FREE - no obligation estimate. Do you have any interest in another estimate from a top-rated company?</span>
+             <br/>
+              <span style='font-size:18; color:black'>Yes -</span>
+                <span style='font-size:18; color:#C00000'>Continue qualifying.</span>
+                  <br/>
+                    <span style='font-size:18; color:black'>No -&nbsp;</span>
+                      <span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;
+                        <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span>&nbsp;|&nbsp; 
+                          <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div>
+           
+           
+           
+        
+<!-- ---------- Line ---------- -->
+<hr style="height:2px;border:none;color:black;background-color:black;">
+<!-- ---------- Line ---------- -->
+          
+           <!--[START] Project Types [START] -->
+   
+              <span style='font-size:20;  color:black'><b><u>Project Type:</u>&nbsp;@Customer.project type@</b></span> 
+          
+          <span class="tooltipR" style='font-size:13; color:#C00000; cursor: help'><b>(more...)</b><span class="tooltiptext">Ensure project type is uniform <br><br>WINDOWS - #<br><br></span></span>
+        
+          <br><br/>
+          
+          
+
+<!-- Win Project -->
+      
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+
+ <a style="text-decoration:none" href="#" class="button" onclick="document.getElementById('ProjectWIN').style.display='block'; return false;"><span style='font-size:18; color:white'>Windows 3+</span></a> 
+        
+        <div style="display: none; font-weight: normal" id="ProjectWIN"><p style='font-size:18'>And how many windows are you looking to replace?<br/>        
+    
+    <span style='font-size:13; color:red'><b>Update window count under GENERAL TAB <span style="font-size:13; color: black;"><b>-|- <span style='font-size:13; color:red'>NO window repair</b></span><br/>
+    
+        
+
+    
+       <span class="tooltip" style='font-size:13; color:#C00000; cursor: help'><b> Qualified Examples
+  <span class="tooltiptext">Complete *Replacement* of Window(s)</span>
+         </span>
+         
+           <span style="font-size:13; color: black;"><b>|</b></span>  
+
+ <span class="tooltip" style='font-size:13; color:#C00000; cursor: help'><b>Not Qualified Examples
+  <span class="tooltiptext">ANY repair work<br>Storm Windows<br>Glass Only<br>Screens Only<br>Sash Only<br>Blinds<br>Window Sill Only<br>Window Springs<br>New Construction<br>No Sunrooms<br>Porch/Patio/lanai<br><br>Cutting A New Window<br><br>Commercial buildings<br>Hotels<br>Churches<br></span>
+</span>
+     
+     
+    
+    
+    <br/>
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('shyWINpro');"> 
+                  
+                  <span style="font-size:13; color:darkblue"><b>Less Than 3 Windows -OR- Window Repair</b></span></a3>
+                  
+              <span style="font-size:13; color: black"><b>|</b></span>  
+        
+
+    <a3 href="#" class="buttons" onclick="divVisibility('styleWINpro')"><b><span style='font-size:13; color:darkblue'>What Styles/Brands Do You Have</span></b></a3> 
+             <span style='font-size:13; color: black'><b>|</b></span>
+
+ <a3 href="#" class="buttons" onclick="divVisibility('freeWINpro')"><b><span style='font-size:13; color:darkblue'>Free/Govt Programs</span></b></a3> 
+             <span style='font-size:13; color: black'><b>|</b></span>
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('materialWINpro')"><span style='font-size:13; color:darkblue'><b>Wholesale or Material/Install Only</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+
+<a3 href="#" class="buttons" onclick="divVisibility('cbWINpro')"><b><span style='font-size:13; color:darkblue'>Call Me Back</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+    
+  <a3 href="#" class="buttons" onclick="divVisibility('emailWINpro')"><b><span style='font-size:13; color:darkblue'>Email Me</span></b></a3>
+
+        
+              
+                  <div style="display: none;" id="shyWINpro"><span style='font-size:18; color:#C00000'><b>I apologize, but we only offer estimates on full replacement and we have a 3 window minimum; are there any other windows you'd be interested in replacing?</b></span><br/>
+    
+    <span style='font-size:13; color:black'>Yes -
+        
+        <span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/>
+        
+           <span style='font-size:18; color:black'>No -
+            <span style='color:#C00000'>Well I'm sorry we can't help with that, however we also offer<span style='color:black'> (other project types)<span style='color:#C00000'>.</span><span style='color:#C00000'> Would you have a need or any interest in a FREE estimate on <span class="tooltipR" style='color:black'>(other project types)<span style='color:#C00000'>?</span></span></span></span></span><br/>
+            <span style='color:black'>Yes -
+                <span style='color:red; font-size: 13'>&nbsp;Change project type under GENERAL TAB and continue qualifying with new project type.</span><br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Well thank you for your time and good luck with your project. Have a great day!</span>&nbsp;
+                    <span style='font-size:15; background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15; background-color:lightgray;color:black'>&nbsp;Not qualified</span></span></span></span></span></div></span></div></div>  
+        
+
+        <div style="display: none;" id="styleWINpro"><span style='font-size:18; color:#C00000'><b>I apologize Mr/Ms, @Customer.last_name@, I don't know all the different styles/brands offered. However, if I can quickly verify your info, I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate!</b></span></div>
+
+        <div style="display: none;" id="freeWINpro"><span style='font-size:18; color:#C00000 '><b>I’m just here to verify your request and address and then I’ll connect you to the manager of the @Customer.project type@  department manager who can discuss those programs and any other options available.<br/><span style='color:black'>Yes -<span style='color:#C00000'>Continue qualifying.</span><br/><span style='color:black'>No -&nbsp;<span style='color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></span></span></span></div>
+       
+        
+        <div style="display: none;" id="materialWINpro"><span style='font-size:18; color:#C00000 '><b>I apologize; we only offer estimates where we supply the @Customer.project type@ and installation. Do you have any interest in a FREE estimate on that whole package?</span><br/><span style='font-size:18; color:black'>Yes -<span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/><span style='font-size:18; color:black'>No -<span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15 ;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div></span></span></div>
+
+        
+        <div style="display: none;" id="cbWINpro"><span style='font-size:18; 
+        color:#C00000 '><b>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</span><br/>
+
+<span style='font-size:18; color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Continue to transfer.</span>&nbsp;
+    <br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Schedule next voice disposition or requested call back time.</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span>
+                    <span style='font-size:12; color:red'>(Callbacks should not exceed 2 weeks)</span>
+                    <br></span></span></div>
+
+       
+            <div style="display: none;" id="emailWINpro"><span style='font-size:18; color:#C00000 '><b>I'm just here to verify your request and address and then I'll connect you to the manager of the @Customer.project type@ department manager who has your email address. Feel FREE to ask any questions you have about your project and let them know all the information you'd like included in the e-mail/mailer.</span></div></div></div></div></div></div></div></div></div>
+        
+
+        
+        <br/>
+              
+
+<!-- Roof Project --
+
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+
+ <a style="text-decoration:none" href="#" class="button" onclick="document.getElementById('ProjectRFG').style.display='block'; return false;"><b><span style='font-size:16; color:white'>Roofing</span></b></a> 
+        
+<div style="display: none; font-weight: normal" id="ProjectRFG"><p style='font-size:18'>And you're looking for
+    an estimate to replace your entire roof, or is this for a partial or repair?<br/>        
+    
+    <span style='font-size:13; color:red'>FULL roof replacement <span style="font-size:13; color: black;"><b>-|-<span style='font-size:13; color:red'> NO partial or repair work</span><br/>
+    
+       
+
+    
+       <span class="tooltip" style='font-size:13; color:#C00000'><b> Qualified Examples
+  <span class="tooltiptext">Complete Roof Replacement</span>
+         </span>
+         
+          <span style="font-size:13; color: black;"><b>|</b></span>  
+
+ <span class="tooltip" style='font-size:13; color:#C00000'><b>Not Qualified Examples
+  <span class="tooltiptext">Repair Work<br>Patch Work<br>Fixing A Leak Only<br>Replacing Trim<br>Replacing Gutters/Siding</span>
+</span>
+     
+     
+    
+    
+    <br/>
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('shyRFGpro');"> 
+                  
+                  <span style="font-size:13; color:darkblue"><b> Partial Roof -OR- Roof Repair</b></span></a3>
+                  
+              <span style="font-size:13; color: black"><b>|</b></span>
+      
+      
+      
+    
+
+    <a3 href="#" class="buttons" onclick="divVisibility('styleRFGpro')"><b><span style='font-size:13; color:darkblue'>What Styles/Brands Do You Have</span></b></a3> 
+             <span style='font-size:13; color: black'><b>|</b></span>
+
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('materialRFGpro')"><span style='font-size:13; color:darkblue'><b>Wholesale or Material/Install Only</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+
+<a3 href="#" class="buttons" onclick="divVisibility('cbRFGpro')"><b><span style='font-size:13; color:darkblue'>Call Me Back</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+    
+  <a3 href="#" class="buttons" onclick="divVisibility('emailRFGpro')"><b><span style='font-size:13; color:darkblue'>Email Me</span></b></a3>
+    
+   
+    <div style="display: none;" id="shyRFGpro"><span style='font-size:18; color:#C00000'><b>I apologize, we only offer full replacement quotes; Do you have any interest in a FREE estimate to replace the entire roof?</b></span><BR/>
+    
+    <span style='font-size:18; color:black'>Yes -
+        
+        <span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/>
+        
+        <span style='color:black'>No -
+            <span style='color:#C00000'>Well I’m sorry we can’t help with that, however we also offer siding and window replacement. Would you have a need or any interest in a FREE estimate on replacing the siding or 3 or more windows in your home?</span><br/>
+            <span style='color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Change project type under</span>&nbsp;
+                <span style='color:red'>GENERAL TAB</span>&nbsp;
+                <span style='color:#C00000'>and continue qualifying with new project type.</span><br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Well thank you for your time and good luck with your project. Have a great day!</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span><br></div></span></span></span></div></span>
+        
+            
+
+             <div style="display: none;" id="styleRFGpro"><span style='font-size:18; color:#C00000'><b>I apologize Mr/Ms, @Customer.last_name@, I don't know all the different styles/brands offered. However, if I can quickly verify your info, I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate!</b></span></div>
+        
+
+        <div style="display: none;" id="materialRFGpro"><span style='font-size:18; color:#C00000 '><b>I apologize; we only offer estimates where we supply the @Customer.project type@ and installation. Do you have any interest in a FREE estimate on that whole package?</span><br/><span style='font-size:18; color:black'>Yes -<span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/><span style='font-size:18; color:black'>No -<span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15 ;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div></span></span></div>
+       
+
+        <div style="display: none;" id="cbRFGpro"><span style='font-size:18; 
+        color:#C00000 '><b>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</span><br/>
+
+<span style='font-size:18; color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Continue to transfer.</span>&nbsp;
+    <br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Schedule next voice disposition or requested call back time.</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span>
+                    <span style='font-size:12; color:red'>(Callbacks should not exceed 2 weeks)</span>
+                    <br></span></span></div>
+
+       
+            <div style="display: none;" id="emailRFGpro"><span style='font-size:18; color:#C00000 '><b>I'm just here to verify your request and address and then I'll connect you to the manager of the @Customer.project type@ department manager who has your email address. Feel FREE to ask any questions you have about your project and let them know all the information you'd like included in the e-mail/mailer.</span></div></div></div></div>
+        
+
+        
+        <br/>
+  
+<!-- Side Project --
+
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+
+ <a style="text-decoration:none" href="#" class="button" onclick="document.getElementById('ProjectSID').style.display='block'; return false;"><b><span style='font-size:16; color:white'>Siding</span></b></a> 
+        
+<div style="display: none; font-weight: normal" id="ProjectSID"><p style='font-size:18'>And you're looking for
+an estimate to replace all your siding, or is this for a partial or repair?<br/>
+    
+    <span style='font-size:13; color:red'>Replacement of all siding on home <span style="font-size:13; color: black;"><b>-|-</b></span><span style='font-size:13; color:red'> NO partial or repair work</span><br/>
+    
+  
+    
+       <span class="tooltip" style='font-size:13; color:#C00000'><b> Qualified Examples
+  <span class="tooltiptext">Replacing ALL The Siding On The Home<br></span>
+        </span>
+         
+          <span style="font-size:13; color: black;"><b>|</b></span> 
+
+ <span class="tooltip" style='font-size:13; color:#C00000'><b>Not Qualified Examples
+  <span class="tooltiptext">Repair Work<br>Patch Work<br>Individual Panels<br></span>
+</span>
+     
+  
+    
+    
+    <br/>
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('shySIDpro');"> 
+                  
+                  <span style="font-size:13; color:darkblue"><b> Partial -OR - Siding Repair</b></span></a3>
+                  
+              <span style="font-size:13; color: black"><b>|</b></span>
+    
+    
+
+    <a3 href="#" class="buttons" onclick="divVisibility('styleSIDpro')"><b><span style='font-size:13; color:darkblue'>What Styles/Brands Do You Have</span></b></a3> 
+             <span style='font-size:13; color: black'><b>|</b></span>
+
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('materialSIDpro')"><span style='font-size:13; color:darkblue'><b>Wholesale or Material/Install Only</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+
+<a3 href="#" class="buttons" onclick="divVisibility('cbSIDpro')"><b><span style='font-size:13; color:darkblue'>Call Me Back</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+    
+  <a3 href="#" class="buttons" onclick="divVisibility('emailSIDpro')"><b><span style='font-size:13; color:darkblue'>Email Me</span></b></a3>
+    
+
+    <div style="display: none;" id="shySIDpro"><span style='font-size:18; color:#C00000'><b>I apologize, we only offer full replacement quotes; do you have any interest in a FREE estimate to replace all the siding?</b></span><br/>
+    
+    <span style='font-size:18; color:black'>Yes -
+        
+        <span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/>
+        
+        <span style='color:black'>No -
+            <span style='color:#C00000'>Well I’m sorry we can’t help with that, however we also offer roofing and window replacement. Would you have a need or any interest in a FREE estimate on replacing the siding or 3 or more windows in your home?</span><br/>
+            <span style='color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Change project type under</span>&nbsp;
+                <span style='color:red'>GENERAL TAB</span>&nbsp;
+                <span style='color:#C00000'>and continue qualifying with new project type.</span><br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Well thank you for your time and good luck with your project. Have a great day!</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span><br></div></span></span></span></div></span>
+
+             <div style="display: none;" id="styleSIDpro"><span style='font-size:18; color:#C00000'><b>I apologize Mr/Ms, @Customer.last_name@, I don't know all the different styles/brands offered. However, if I can quickly verify your info, I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate!</b></span></div>
+        
+  
+        
+        <div style="display: none;" id="materialSIDpro"><span style='font-size:18; color:#C00000 '><b>I apologize; we only offer estimates where we supply the @Customer.project type@ and installation. Do you have any interest in a FREE estimate on that whole package?</span><br/><span style='font-size:18; color:black'>Yes -<span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/><span style='font-size:18; color:black'>No -<span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15 ;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div></span></span></div>
+    
+        <div style="display: none;" id="cbSIDpro"><span style='font-size:18; 
+        color:#C00000 '><b>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</span><br/>
+
+<span style='font-size:18; color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Continue to transfer.</span>&nbsp;
+    <br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Schedule next voice disposition or requested call back time.</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span>
+                    <span style='font-size:12; color:red'>(Callbacks should not exceed 2 weeks)</span>
+                    
+                    <br></span></span></div>
+  
+       
+            <div style="display: none;" id="emailSIDpro"><span style='font-size:18; color:#C00000 '><b>I'm just here to verify your request and address and then I'll connect you to the manager of the @Customer.project type@ department manager who has your email address. Feel FREE to ask any questions you have about your project and let them know all the information you'd like included in the e-mail/mailer.</span></div></div></div></div>
+        
+    
+    
+<br/>
+     <!-- Bath Project --
+
+        
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+
+ <a style="text-decoration:none" href="#" class="button" onclick="document.getElementById('ProjectBTH').style.display='block'; return false;"><b><span style='font-size:16; color:white'>Bath</span></b></a> 
+        
+<div style="display: none; font-weight: normal" id="ProjectBTH"><p style='font-size:18'>And you're looking to
+get an estimate on changing something like your tub or shower or is this more structural
+work?<br/>        
+    
+    <span style='font-size:13; color:red'>Tub or shower replacement/conversion <span style="font-size:13; color: black;"><b>-|-</b></span><span style='font-size:13; color:red'> NO OTHER BATH WORK</span><br/>
+    
+    
+        
+     <span class="tooltip" style='font-size:13; color:#C00000'><b> Qualified Examples
+  <span class="tooltiptext">Complete Replacement of Tub/Shower (Alone)<br><br>-OR-<br><br>Complete Replacement of Tub/Shower<br><br>- AND REPLACING -<br><br>Cabinets<br>Fixtures<br>Sink<br>Faucet<br><br>Additional Work</span>
+         </span>
+         
+          <span style="font-size:13; color: black;"><b>|</b></span> 
+
+ <span class="tooltip" style='font-size:13; color:#C00000'><b>Not Qualified Examples
+  <span class="tooltiptext">Paint Only<br>Tile Only<br>Toilet Only<br>Half-Baths<br>Mobile Home<br>Resurfacing<br>Reglazing<br>New Construction<br><br>No Inserts / Fitters / Pans <br><br>Moving/Adding Plumbing<br><br>Building a Bathroom in the Basement<br><br>Changing Size of Bathroom/Doorway<br></span>
+</span>
+     
+      
+    
+    
+    <br/>
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('shyBTHpro');"> 
+        
+   
+                  
+                  <span style="font-size:13; color:darkblue"><b> Not Tub/Shower -OR- Structural Work</b></span></a3>
+                  
+              <span style="font-size:13; color: black"><b>|</b></span>  
+         
+       
+        
+     <a3 href="#" class="buttons" onclick="divVisibility('styleBTHpro')"><b><span style='font-size:13; color:darkblue'>What Styles/Brands Do You Have</span></b></a3> 
+             <span style='font-size:13; color: black'><b>|</b></span>
+
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('materialBTHpro')"><span style='font-size:13; color:darkblue'><b>Wholesale or Material/Install Only</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+
+<a3 href="#" class="buttons" onclick="divVisibility('cbBTHpro')"><b><span style='font-size:13; color:darkblue'>Call Me Back</span></b></a3> <span style='font-size:13; color: black'><b>|</b></span>
+    
+  <a3 href="#" class="buttons" onclick="divVisibility('emailBTHpro')"><b><span style='font-size:13; color:darkblue'>Email Me</span></b></a3>
+    
+
+     
+   <div style="display: none;" id="shyBTHpro"><span style='font-size:18; color:#C00000'><b>I apologize, we only offer quotes on remodels, like a tub or shower replacement; do you have any interest in a FREE estimate for remodeling those “wet areas” of your bathroom?</b></span><br/>
+    
+    <span style='font-size:18; color:black'>Yes -
+        
+        <span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/>
+        
+        <span style='color:black'>No -
+            <span style='color:#C00000'>Well I’m sorry we can’t help with that, however we also offer roofing and window replacement. Would you have a need or any interest in a FREE estimate on replacing the siding or 3 or more windows in your home?</span><br/>
+            <span style='color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Change project type under</span>&nbsp;
+                <span style='color:red'>GENERAL TAB</span>&nbsp;
+                <span style='color:#C00000'>and continue qualifying with new project type.</span><br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Well thank you for your time and good luck with your project. Have a great day!</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span><br></div></span></span></span></div></span>
+        
+            
+            
+             <div style="display: none;" id="styleBTHpro"><span style='font-size:18; color:#C00000'><b>I apologize Mr/Ms, @Customer.last_name@, I don't know all the different styles/brands offered. However, if I can quickly verify your info, I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate!</b></span></div>
+        
+
+        <div style="display: none;" id="materialBTHpro"><span style='font-size:18; color:#C00000 '><b>I apologize; we only offer estimates where we supply the @Customer.project type@ and installation. Do you have any interest in a FREE estimate on that whole package?</span><br/><span style='font-size:18; color:black'>Yes - <span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/><span style='font-size:18; color:black'>No - <span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15 ;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div></span></span></div>
+
+        
+        <div style="display: none;" id="cbBTHpro"><span style='font-size:18; 
+        color:#C00000 '><b>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</span><br/>
+
+<span style='font-size:18; color:black'>Yes -
+                <span style='color:#C00000'>&nbsp;Continue to transfer.</span>&nbsp;
+    <br/>
+                <span style='color:black'>No -&nbsp;
+                <span style='color:#C00000'>Schedule next voice disposition or requested call back time.</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span>
+                    <span style='color:red'>Callbacks should not exceed 2 weeks</span><br></span></span></div>
+        
+
+            <div style="display: none;" id="emailBTHpro"><span style='font-size:18; color:#C00000 '><b>I'm just here to verify your request and address and then I'll connect you to the manager of the @Customer.project type@ department manager who has your email address. Feel FREE to ask any questions you have about your project and let them know all the information you'd like included in the e-mail/mailer.</span></div></div></div></div>
+
+        -->
+        
+        
+                  <!--[END] Project Types [END] -->
+        
+        
+<!-- ---------- Line ---------- -->
+<hr style="height:2px;border:none;color:black;background-color:black;">
+        
+<!-- ---------- Line ---------- -->   
+        
+        
+                  <!--[START] Homeowner [START] -->
+           
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+           
+     <p style='font-size: 18; font-weight: normal'>I have here you're looking for the estimate at <b>@Customer.street@</b>?
+        
+        
+      <span class="tooltip" style='font-size:13; color:#C00000; cursor: help'><b>(more...)
+  <span class="tooltiptext">If the state changes out of <br>service area collect address<br>- Dispo Not Qualified -<br>Text Manager<br><br> No P.O. Boxes<br> No apartment buildings<br><br> Update APT & Lot to "Unit"</span>
+         </span>  
+         
+        
+    
+    <br/>
+
+                 <span style='font-size:13; color:red'><b>If address changes update under GENERAL TAB</b></span> 
+    
+    
+    
+          <p style='font-size: 18'><b>Mr. / Ms., @Customer.last_name@ </b><span style='font-weight: normal'>are you the homeowner at that address?
+        
+        <br/>
+        
+        
+            <span class="tooltip" style='font-size:13; color:#C00000; cursor: help'><b>Qualified Examples
+  <span class="tooltiptext">Confirms homeownership<br><br>Confirms homeowner will be present for estimate<br><br>Caller has power of attorney</span>  
+                
+                <span style="font-size:13; color: black;"><b>|</b></span> 
+                
+         </span> <span class="tooltip" style='font-size:13; color:#C00000; cursor: help'><b>Not Qualified Examples
+  <span class="tooltiptext">Haven't Closed<br><br>Home in escrow<br><br>Renter<br><br>Apartment<br><br>Commercial buildings<br><br>Hotels<br><br>Churches</span>
+</span>
+        
+
+        
+        
+        <br/>
+
+         
+    <a3 href="#" onclick="divVisibility('IfNoHo');" style="font-size:13; color:darkblue"><b> Not Homeowner</b></a3>
+        <span style="font-size:13; color: black"><b>|</b></span>
+
+ <a3 href="#" onclick="divVisibility('styleHo');" style="font-size:13; color:darkblue"><b> What Styles/Brands Do You Have</b></a3>
+        <span style="font-size:13; color: black"><b>|</b></span>
+        
+        <a3 href="#" onclick="divVisibility('materialHo');" style="font-size:13; color:darkblue"><b> Wholesale or Material/Install Only</b></a3>
+    
+
+        
+        <div id="IfNoHo" style="display: none;"> <span style='font-size:18; color:#C00000 '><b>Are you assisting the homeowner with getting an estimate or is this a rental?</span><br/>
+         
+             <span style='font-size:18; color:black'>If assisting -
+                 <span style='color:#C00000'>I apologize but we do need the homeowner present at the time of the estimate, would they be present for the FREE estimate</span><br/> 
+                 
+                 <span style='font-size:18; color:black'>Yes  - 
+                     <span style='font-size:18; color:#C00000'>Continue qualifying.<br/><br/>
+                         
+                         <span style='font-size:18; color:black'>Not present | Renter | Realtor | Contractor | Potential homebuyer -
+                         
+                             <span style='font-size:18; color:#C00000'>I apologize, but we do need the homeowner’s consent and for them to be present at the time of the estimate; would the owner be able to callback and schedule the estimate? </span> <br/>
+                             <span style='font-size:18; color:black'>Yes - </span>
+        <span style='font-size:18; color:#C00000'>Great, please have them give us a callback at toll free 888-387-0882.</span> 
+                                <span style='font-size:15; background-color:lightgray; color:black'> Set Voice Disposition</span> 
+        <span style='font-size:15; color:black'><b>&nbsp;|&nbsp;</b></span>
+                            <span style='font-size:15; background-color:lightgray; color:black'>13 - Schedule Call Back </span>
+        <span style='font-size:15; color:black'><b>&nbsp;|&nbsp;</b></span>
+                        <span style='font-size:15; background-color:lightgray; color:black'> Schedule Redial... </span> 
+        <span style='font-size:15; color:black'><b>&nbsp;|&nbsp;</b></span>
+        <span style='font-size:15; color:#C00000'>48 hours later.</span>
+                             
+                             <br>
+                             
+                             <span style='font-size:18; color:black'>No - <span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15 ;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div></span></span></div>
+
+                             
+                         </span></span></span></span></span></div>
+      
+      
+      
+      <div id="styleHo" style="display: none;"> <span style='font-size:18; color:#C00000'><b>I apologize Mr/Ms, @Customer.last_name@, I don't know all the different styles/brands offered. However, if I can quickly verify your info, I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate!</span></div>
+
+      
+          <div id="materialHo" style="display: none;"> <span style='font-size:18; color:#C00000'><b>I apologize; we only offer estimates where we supply the @Customer.project type@ and installation. Do you have any interest in a FREE estimate on that whole package?</span><br/><span style='font-size:18; color:black'>Yes - <span style='font-size:18; color:#C00000'>Continue qualifying.</span><br/><span style='font-size:18; color:black'>No - <span style='font-size:18; color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15 ;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div></span></span></div>    
+    
+        <!--[END] Homeowner [END] -->
+
+   
+
+ 
+  
+
+          
+<!-- ---------- Line ---------- -->
+<hr style="height:2px;border:none;color:black;background-color:black;">
+<!-- ---------- Line ---------- -->
+          
+        <!-- [START] Additional Qualifier(s) [START] -->
+        
+        <!-- Insurance Claim --
+
+     <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+        
+        <br>
+        
+      <span class="blink-two AQ" style='font-size: 16; background-color:black; color:yellow'>Additional Qualifier</span></br>
+
+<b><p style='font-size:18'>Is this for an insurance claim or rental property you own?</br>
+        
+        
+         <span style='font-size:13; color:red'>NO insurance claims -|- NO rental properties</span><br/>
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('shyADQpro2');"> 
+        
+   
+                  <span style="font-size:13; color:darkblue"><b> Insurance Claims -OR- Rental Property</b></span></a3>
+        
+
+        <div style="display:none;" id="shyADQpro2"><span style='font-size:18; color:#C00000'>I apologize, we do not offer quotes for insurance claims, or on rental properties. Good luck with your project. <br/>Have a great day!&nbsp; <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size:15; color:black'> &nbsp;|&nbsp; </span>
+                    <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span><br></div></span></div>
+                   
+
+-->   
+          
+          
+          
+
+          <!-- Mobile Home --
+
+     <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+        
+        <br>
+        
+      <span class="AQ" style='font-size: 16; background-color:black; color:yellow'>Additional Qualifier</span></br>
+
+<p style='font-size:18; font-weight: normal'>Is this for a single-wide mobile home?</br>
+        
+        
+         <span style='font-size:13; color:red'><b>No single-wide mobile homes</b></span>
+        <br/>
+        
+                 <span class="tooltip" style='font-size:13; color:#C00000'><b> Qualified Examples
+  <span class="tooltiptext">Double-Wide <br> Mobile Homes<br><br>Single Family Homes<br><br>Condo's</span>  
+                
+                <span style="font-size:13; color: black;"><b>|</b></span> 
+                
+         </span> <span class="tooltip" style='font-size:13; color:#C00000'><b>Not Qualified Examples
+  <span class="tooltiptext">Single-wide mobile homes<br><br>Trailers<br><br>Campers</span>
+</span>
+        
+    <br/>
+                     
+                     <!--
+    
+    <a3 href="#" class="buttons" onclick="divVisibility('shyADQpro2');"> 
+        
+   
+                  <span style="font-size:13; color:darkblue"><b> Insurance Claims -OR- Rental Property</b></span></a3>
+        
+
+        <div style="display:none;" id="shyADQpro2"><span style='font-size:18; color:#C00000'>I apologize, we do not offer quotes for insurance claims, or on rental properties. Good luck with your project. <br/>Have a great day!&nbsp; <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size:15; color:black'> &nbsp;|&nbsp; </span>
+                    <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span><br></div></span></div>
+                   
+        
+
+ <!-- [START] Additional Qualifier(s) [START] -->
+
+
+   <!--Great! Client offers a FREE estimate-->
+    
+           <p style='font-size: 18; font-weight: normal'>Great! <b>Abby Windows and Exteriors</b> offers a FREE estimate and the estimate is good for a year!</p></span>
+        
+        
+
+                
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div">       
+                
+                
+        <b><span style='font-size:18; font-weight: normal'>Mr./Ms <span> <b>@Customer.last_name@,</b> if you wouldn't mind holding for about 30 seconds, I'll
+connect you to the scheduling department. 
+<br/>
+    
+They can answer any questions you have, and find a time that works best for you for the FREE
+estimate; alright?<br/></span>
+    
+
+    
+<a3 href="#" class="buttons" onclick="divVisibility('preCONcb');"> 
+        
+   
+                  <span style="font-size:13; color:darkblue"><b> Call Me Back</b></span></a3>
+    
+    
+            
+            <div style="display:none;" id="preCONcb"><span style='font-size:18; color:#C00000'><b>I could, or we can quickly get an estimate scheduled while I've got you on the phone. It'll only take 2 minutes and then you can check it off your to-do list.</b></span><br/>
+
+<span style='color:black'><b>Yes -
+    <span style='color:#C00000'>Continue to transfer.</span>
+    <br/>
+                <span style='color:black'>No -
+                <span style='color:#C00000'>Schedule next voice disposition or requested call back time.</span>&nbsp;
+                    <span style='font-size:15;background-color:lightgray;color:black'>Set Voice Disposition</span><span style='font-size:15; color:black'></span> &nbsp;|&nbsp; 
+                    <span style='font-size:15;background-color:lightgray;color:black'>Appropriate Dispo</span>
+                    <span style='font-size:12; color:red'>(Callbacks should not exceed 2 weeks)</span></b></span>
+                    
+                    <br></div></span></div>
+    
+    
+    <br>
+    <span style='font-size:18; font-weight: normal'>Thank you, I'll be right back; please don't hang up.</span><br/>
+    <span style='font-size:13; color:red'>Click&nbsp;</span><span style='font-size:15;background-color:lightgray;color:black'>Add Conference Participant</span><span style='font-size:13;color:red'> type '@Customer.Market@' & double click @Customer.Market@<br>*PRESS 1* to connect to the scheduling department</span>
+
+    
+<!-- ---------- Line ---------- -->
+      <hr style="height:2px;border:none;color:black;background-color:black;">
+<!-- ---------- Line ---------- -->
+    
+
+<!-- Conference Results -->
+
+<span style='font-size:20; display:inline color:black'><b><u>Conference Result</span></b></u>
+  
+           
+<br/><br/>
+
+<!-- Client Answers -->
+ <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+    
+
+<a style="text-decoration:none" href="#" class="button" onclick="document.getElementById('ClientAnswer').style.display='block'; return false;">
+    
+           
+            <b><span style='font-size:18; color:white'>@Customer.Market@ Answered</span></b></a> <br>
+
+<div style="display: none;" id="ClientAnswer"><p style='font-size:18; font-weight: normal'>This is&nbsp;@Agent.full_name@&nbsp;with Contractor Connect, I have Mr./Ms. <b>@Customer.first_name@&nbsp;@Customer.last_name@</b><br />Located at: <b>@Customer.street@ @Customer.zip@</b> <br/> Phone # is: <b>@Customer.number1@</b> <br /> And they need an estimate on:&nbsp;<b>@Customer.project type@</b></span><br/>   
+      
+        
+
+        <a3 href="#" class="buttons" onclick="divVisibility('clientREFUSE');"> 
+        
+   
+                  <span style="font-size:13; color:darkblue"><b> @Customer.Market@ Refuses Transfer</b></span></a3>
+
+        
+        <div style="display:none;" id="clientREFUSE"><span style='font-size:18; color:#C00000'>Sorry for the confusion, have a great day!<br/><span style='font-size:13; color:red'>Click</span>&nbsp;<span style='font-size:15; background-color:lightgray;color:black'>Cancel Conference</span><br/><span style='font-size:18; color:#C00000'>I apologize, but they're just finishing up with another homeowner and will give you a call back directly in just a minute.</span><br/><br/>
+            
+            
+            <span id="eosRT" style='font-size:0'>MT (Refused): @Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@</span>
+<button onclick="copyToClipboard('eosRT')">Copy Refused Transfer Info - (Paste in EOS Report)</button>
+
+
+            
+            
+            <br/><br/>
+    
+      
+
+    
+    <span style='font-size:13; color:red'><b>Text group/manager <span style='font-size:13; color:#C00000'><b> '@Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@ refused transfer [<i>and why</i>] MT.'</b></span>
+        
+        <br/>
+    
+    <span style='font-size:13; color:red'><b>Click <span style='font-size:13; background-color:lightgray;color:black'>Set Voice Disposition</span> 
+
+<span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+                   
+ <span style='font-size:13; background-color:lightgray;color:black'>More...</span> 
+    
+    <span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+
+        <span style='font-size:13; background-color:lightgray;color:black'>Missed Transfer</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
+        
+
+    <span style='font-size:13; color:red'><b>Click&nbsp;</b></span><span style='font-size:13; background-color:lightgray;color:black'>Complete Conference</span><span style='font-size:13; color:red'><b>&nbsp;homeowner now connected<br/>
+        
+        
+    <span style='font-size:18; font-weight: normal; color:black'>Mr./Ms. <span> <b>@Customer.last_name@</b> thank you for holding, I
+        will leave you in the <b>@Customer.project type@</b> department at <b>Abby Windows and Exteriors</b>.<br/><br/>
+    
+        
+        <span id="eosT" style='font-size:0'>Transfer: @Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@</span>
+<button onclick="copyToClipboard('eosT')">Copy Transfer Info- (Paste in EOS Report)</button>
+        
+        
+        <br/><br/>
+ 
+       
+    
+        
+    <span style='font-size:13; color:red'><b>Click&nbsp;</b>
+    
+    </span><span style='font-size:15; background-color:lightgray;color:black'><b>Complete Conference</b></span>
+    
+    <span style='font-size:15; color:black'><b>&nbsp;|&nbsp;</b></span>
+    
+    <span style='font-size:15; background-color:lightgray;color:black'><b>&nbsp;Leave Conference </b></span>
+        
+        
+        <span style='font-size:15; color:black'><b>&nbsp;|&nbsp;</b></span>
+    
+    <span style='font-size:15;background-color:lightgray;color:black'><b>Transfer</b></span>  
+    
+    </span></span></span></div>
+
+
+        <br/>
+        
+        <!-- Client Doesn't Answer -->
+        
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+    
+    
+
+        <a style="text-decoration:none" href="#" class="button" onclick="document.getElementById('ClientNoAnswer').style.display='block'; return false;">
+    
+           
+            <b><span style='font-size:18; color:white'>@Customer.Market@ Didn't Answer | 10 Rings | Voicemail</span></b></a> <br/>
+        
+        
+        
+<div style="display: none;" id="ClientNoAnswer"><p style='font-size:13;color:red'><b>Click&nbsp;</b></span><span style='font-size:13;background-color:lightgray;color:black'>Cancel Conference </span><br/><span style='font-size:18;font-weight: normal; color:black'>I apologize, but they're just finishing up with another homeowner and will give you a call back directly in just a minute.</span><br/><br/>
+           
+          
+         
+                 <span id="eosMT" style='font-size:0'>MT: @Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@</span>
+<button onclick="copyToClipboard('eosMT')">Copy Missed Transfer Info - (Paste in EOS Report)</button>
+        
+        
+            <br/><br/>
+    
+
+        <span style='font-size:13; color:red'><b>Click</b></span> <span style='font-size:13; background-color:lightgray;color:black'>Set Voice Disposition</span> 
+
+<span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+                   
+ <span style='font-size:13; background-color:lightgray;color:black'>More...</span> 
+    
+    <span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+
+        <span style='font-size:13; background-color:lightgray;color:black'> Missed Transfer</span> </span></span></span></div></div>
+        
+        <br/>
+        
+
+   <!-- Homeowner Hangs-up  -->
+        
+        
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div"> 
+    
+        
+      <a style="text-decoration:none" href="#" class="noHTbutton" onclick="document.getElementById('NoHT').style.display='block'; return false;">
+    
+          <b><span style='font-size:18; color:white'>Homeowner Hung-up</span></b></a> <br/>
+        
+       <div style="display: none;" id="NoHT"><p style='font-size:13;color:red'>STOP giving homeowner information to @Customer.Market@&nbsp;represenative</span><br/><span style='font-size:18;font-weight: normal; color:black'>They just hung up; I'll try to get them back.</span><br/>
+           
+        
+          <span style='font-size:13; color:red'><b>Text group<span style='font-size:13; color:#C00000'><b>'@Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@ - HT</b></span><br/><br/>  
+        
+        <span style='font-size:13;color:red'><b>Click&nbsp;</b></span><span style='font-size:15;background-color:lightgray;color:black'>Cancel Conference</span>
+               
+               <span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+               
+               <span style='font-size:13; background-color:lightgray;color:black'>Set Voice Disposition</span> 
+
+<span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+    
+    <span style='font-size:13; background-color:lightgray;color:black'>CB-3min</span> 
+                    
+        <br>
+        
+          <a3 href="#" class="buttons" onclick="divVisibility('clientHTinsist');"> 
+        
+                  <span style="font-size:13; color:darkblue"><b> @Customer.Market@ Insists On Calling Back Themselves</b></span></a3>
+           
+           
+           <div style="display:none;" id="clientHTinsist"><span style='font-size:13;color:red'><b>Provide ALL homeowner information
+               
+               
+               <br/><br/>
+               
+               <span id="eosIT" style='font-size:0'>Transfer (Insisted): @Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@</span>
+<button onclick="copyToClipboard('eosIT')">Copy Insisted Transfer Info - (Paste in EOS Report)</button>
+               
+               
+               <br/><br/>
+               
+        
+               
+               
+               
+               <span style='font-size:13;color:red'><b>Click&nbsp;</b></span><span style='font-size:15;background-color:lightgray;color:black'>Cancel Conference</span>
+               
+               <span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+               
+               <span style='font-size:13; background-color:lightgray;color:black'>Set Voice Disposition</span> 
+
+<span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+                   
+ <span style='font-size:13; background-color:lightgray;color:black'>Transfer</span> 
+    
+
+<br/>
+               
+               <span style='font-size:13; color:red'><b>Text group<span style='font-size:13; color:#C00000'><b>'@Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@ - IT</b></span><br/><br/>
+        
+                   </a3></div></div>
+        
+    
+    <br>
+        <!-- Client doesn't accept IT
+        
+           <a3 href="#" class="buttons" onclick="divVisibility('clientHTinsist');"> 
+        
+                  <span style="font-size:13; color:darkblue"><b> @Customer.Market@ Insists On Calling Back Themselves</b></span></a3>
+           
+           
+           <div style="display:none;" id="clientHTinsist"><span style='font-size:13;color:red'><b>FINISH giving all homeowner information to @Customer.Market@ represenative
+               
+               <br/>
+               
+               <span style='font-size:13; color:red'><b>Text group/manager:<span style='font-size:13; color:#C00000'><b>'@Customer.Market@ @Customer.first_name@ @Customer.last_name@ @Customer.number1@ HT rep insist on cb dispo transfer.'</b></span><br/><br/>
+                   
+                   
+                   
+                    <span class="Copy" onclick="copy(this)">Transfer: @Customer.Market@&nbsp;@Customer.first_name@&nbsp;@Customer.last_name@&nbsp;@Customer.number1@&nbsp;HT - Insist</span>
+            
+            <br/><br/>
+    
+       <span style='font-size:13; color:red'><b>Click black bar above to copy market & homeowner info, then paste in EOS report</b></span><br/>
+                   
+                   
+                   
+              <span style='font-size:13; color:red'><b>Click</b></span> <span style='font-size:13; background-color:lightgray;color:black'>Set Voice Disposition</span> 
+
+<span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+                   
+ <span style='font-size:13; background-color:lightgray;color:black'>More...</span> 
+    
+    <span style='font-size:13; color:black'>&nbsp;|&nbsp; 
+
+        <span style='font-size:13; background-color:lightgray;color:black'>Transfer</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></div>
+           
+    
+           <span style='font-size:13;color:red'><b>Click&nbsp;</b></span><span style='font-size:15;background-color:lightgray;color:black'>Cancel Conference </span><br/> 
+           
+           
+           <span style='font-size:13;color:red'><b>Text the group:<span style='font-size:13; color:#C00000'><b> '@Customer.Market@&nbsp;@Customer.first_name@&nbsp;@Customer.last_name@&nbsp;@Customer.number1@ - HT cb3'
+           
+           <br/>
+               
+               <span style='font-size:13;color:red'><b>Click&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size:15; color:black'> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>CB-3min</span></span></b></span></b></span></b></span></span></b></span></b></span></div></div>
+           
+        <br>
+
+
+
+<!-- ---------- Line ---------- -->
+      <hr style="height:2px;border:none;color:black;background-color:black;">
+<!-- ---------- Line ---------- -->
+
+<!-- Off Script --> 
+  
+    <div class="main_div">
+    <div class="buttons">
+    <div class="inner_div">
+
+        
+        <b><u><span style='font-size:30; color:black'>Off Script</u></b>
+
+<br/>
+                     
+        <!-- 1 -->
+        <a3 href="#" class="buttons" onclick="divVisibility('OS1');">1. Generic answer (explaination)</a3>
+        
+            
+            <div style="display:none;" id="OS1"><span style='font-size:18; color:#C00000'>I'm just here to verify your request and address and then I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate.</div><br/>
+        
+        
+        <!-- 2 -->
+  <a3 href="#" class="buttons" onclick="divVisibility('OS2');">2. Generic answer (new here)</a3>
+            
+        <div style="display:none;" id="OS2"><span style='font-size:18; color:#C00000'>I'm fairly new here. Is it okay if I transfer you to the @Customer.project type@ department manager to help answer that?</div><br/>
+        
+        <!-- 3 -->
+ <a3 href="#" class="buttons" onclick="divVisibility('OS3');">3. Questions about styles/brands</a3>
+            
+        <div style="display:none;" id="OS3"><span style='font-size:18; color:#C00000'>I apologize Mr/Ms, @Customer.last_name@, I don't know all the different styles/brands offered. However, if I can quickly verify your info, I'll connect you to the @Customer.project type@ department manager to answer all your questions and get you scheduled for a FREE estimate!</span></div><br>
+    
+  
+    <!-- 4 -->
+            <a3 href="#" class="buttons" onclick="divVisibility('OS4');">4. Already have estimate(s) | You're the 10th company to call me!</a3>
+            
+        <div style="display:none;" id="OS4"><span style='font-size:18; color:#C00000'>Well, I apologize for bugging you, but this company is A+ BBB Rated, and offers a FREE - no obligation estimate. Do you have any interest in another estimate from a top-rated company? </span></div><br>
+
+ 
+        <!-- 5 --> 
+              <a3 href="#" class="buttons" onclick="divVisibility('OS5');">5. Give me a callback | I'm busy | Waiting-Project on hold | Just about to leave | At work</a3>
+            
+            <div style="display:none;" id="OS5"><span style='font-size:18; color:#C00000'>Of course I could, but it would only take about 3 minutes to get you scheduled and you can be done with it. This company is A+ BBB Rated, and offers a FREE - no obligation estimate.</span><span style='font-size:12; color:red'>(Callbacks should not exceed 2 weeks)</span></div><br>
+            
+
+        <!-- 6 -->
+                   <a3 href="#" class="buttons" onclick="divVisibility('OS6');">6. Ballpark price over phone | Just need a price | Don't want anyone coming out</a3>
+            
+        <div style="display:none;" id="OS6"><span style='font-size:18; color:#C00000'>I'm an operator here to verify your request and address, and then connect you to the manager of the @Customer.project type@ department. They can go over the details of your project and assist with the FREE estimate.<br/><span style='font-size: 18; color:black'>If asked about 'ballpark' pricing again -</span>&nbsp;<span style='font-size: 18; color:#C00000'>I'm not 100% sure but it will only take a minute to find out.</span></div><br>
+            
+
+        
+        <!-- 7 -->
+            
+               <a3 href="#" class="buttons" onclick="divVisibility('OS7');">7. Partial | Repairs | Service</a3>
+            
+        <div style="display:none;" id="OS7"><span style='font-size:18; color:#C00000'>I apologize but we only offer estimates on full replacement. Do you have any interest in an estimate on replacing @Customer.project type@ on your home?</span><br/><span style='font-size: 18; color:black'>Yes -<span style='font-size: 18; color:#C00000'>&nbsp;Continue qualifying.</span><br/><span style='font-size: 18; color:black'>No -&nbsp;<span style='font-size: 18; color:#C00000'>Well I'm sorry we can't help with that, good luck with your project. Have a great day.</span> <span style='font-size: 15; ;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size: 15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+            
+            <!-- 8 -->
+                   <a3 href="#" class="buttons" onclick="divVisibility('OS8');">8. Not the homeowner</a3>
+            
+        <div style="display:none;" id="OS8"><span style='font-size:18; color:#C00000'>Are you assisting the homeowner with getting an estimate or is this a rental?<br/><span style='color:black'>If assisting - </span> <span style='color:#C00000'>I apologize but we do need the homeowner present at the time of the estimate, would they be present for the FREE estimate?</span><br/> <span style='font-size: 18; color:black'>Yes -&nbsp;<span style='color:#C00000'>Continue qualifying.</span><br/><span style='color:black'>Not present | Renter | Realtor | Contractor | Potential homebuyer - </span>&nbsp;<span style='color:#C00000'>I apologize, but we do need the homeowner’s consent and for them to be present at the time of the estimate; would the owner be able to callback and schedule the estimate?</span><br/><span style='font-size: 18; color:black'>Yes -&nbsp;<span style='color:#C00000'>Great, please have them give us a callback at toll FREE 888-387-0882.</span> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>13 - Schedule Call Back </span> &nbsp;|&nbsp; <span style='font-size:15; background-color:lightgray;color:black'> Schedule Redial... </span> &nbsp;|&nbsp; <span style='font-size:15;color:#C00000'>48 hours later.<br/><span style='font-size: 18;color:black'>No -&nbsp;<span style='color:#C00000'>Good luck with your project. Have a great day.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size:15'>&nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+            
+
+        <!-- 9 -->    
+                   <a3 href="#" class="buttons" onclick="divVisibility('OS9');">9. Where'd you get my info?</a3>
+            
+        <div style="display:none;" id="OS9"><span style='font-size:18; color:#C00000'>I apologize but I don't have a lot of transparency as to what channel the request came from. I do not want to bother you; Were you looking for a FREE estimate on a @Customer.project type@ -  This company is A+ BBB Rated, and offers a FREE - no obligation estimate  </span></div><br>
+            
+
+       <!-- 10 --> 
+               <a3 href="#" class="buttons" onclick="divVisibility('OS10');">10. Email me | Mail me</a3>
+            
+        <div style="display:none;" id="OS10"><span style='font-size:18; color:#C00000'>I'm just here to verify your request and address and then I'll connect you to the manager of the @Customer.project type@ department manager who has your email address. Feel FREE to ask any questions you have about your project and let them know all the information you'd like included in the e-mail/mailer.</span></div><br>
+ 
+        
+        <!-- 11 -->
+               <a3 href="#" class="buttons" onclick="divVisibility('OS11');">11. Are you part of the government funded program? | Is this for Free/Govt Programs?</a3>
+            
+        <div style="display:none;" id="OS11"><span style='font-size:18; color:#C00000'>I’m just here to verify your request and address and then I’ll connect you to the manager of the @Customer.project type@  department manager who can discuss those programs and any other options available.<br/><span style='font-size: 18;;color:black'>Yes -&nbsp;<span style='color:#C00000'>Continue qualifying.</span><br/><span style='font-size: 18; color:black'>No -&nbsp;<span style='color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+  
+      <!-- 12 -->
+           <a3 href="#" class="buttons" onclick="divVisibility('OS12');">12. Do not speak English</a3>
+            
+        <div style="display:none;" id="OS12"><span style='font-size:18; color:#C00000'>I apologize but is there anyone in your household that speaks English and can assist us?</span><br/><span style='font-size: 18;color:black'>Yes - <span style='color:#C00000'>Continue qualifying.</span><br/><span style='font-size: 18;;color:black'>No - <span style='color:#C00000'>I'll have someone callback that can help.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+
+        <!-- 13 -->     
+                <a3 href="#" class="buttons" onclick="divVisibility('OS13');">13. Do you work for this company | Are you some telemarketer | Are you in my state?</a3>
+            
+        <div style="display:none;" id="OS13"><span style='font-size:18; color:#C00000'>I'm an operator, here to verify your request and address, and then connect you to the manager of the @Customer.project type@ department manager to schedule your FREE estimate. Were you looking for an estimate on a @Customer.project type@&nbsp;? This company is A+ BBB Rated, and offers a FREE - no obligation estimate.<br/><span style='font-size: 18;color:black'>Yes - <span style='color:#C00000'>Continue qualifying.</span><br/><span style='font-size: 18;;color:black'>No -&nbsp;<span style='color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span> &nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+    
+  
+    <!-- 14 -->
+            <a3 href="#" class="buttons" onclick="divVisibility('OS14');">14. No request | No estimate needed</a3>
+            
+        <div style="display:none;" id="OS14"><span style='font-size:18; color:#C00000'>Oh, you are not in need of a FREE @Customer.project type@ estimate? I'm sorry to bother you and have a great day!</span><span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size: 15'>&nbsp;|&nbsp;</span><span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+            
+
+        <!-- 15 -->
+               <a3 href="#" class="buttons" onclick="divVisibility('OS15');">15. Buy product-wholesale | Install only</a3>
+            
+        <div style="display:none;" id="OS15"><span style='font-size:18; color:#C00000'>I apologize; we only offer estimates where we supply the @Customer.project type@ and installation. Do you have any interest in a FREE estimate on that whole package?</span><br/><span style='font-size: 18;color:black'>Yes -&nbsp;<span style='color:#C00000'>Continue qualifying.</span><br/><span style='font-size: 18;color:black'>No -&nbsp;<span style='color:#C00000'>I apologize and best of luck with your project.</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size: 15'></span>&nbsp;|&nbsp;  <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span></div><br>
+
+    <!-- 16 -->
+           <a3 href="#" class="buttons" onclick="divVisibility('OS16');">16. Already has appointment with client</a3>
+            
+        <div style="display:none;" id="OS16"><span style='font-size:18; color:#C00000'>Oh, you already have an estimate from Abby Windows and Exteriors?</span><br/><span style='font-size: 18;color:black'>Yes -&nbsp;<span style='font-size: 18;color:#C00000'>I’m sorry to bother you and have a great day!</span>&nbsp;<span style='font-size:15;background-color:lightgray;color:black'> Set Voice Disposition</span><span style='font-size: 15'></span>&nbsp;|&nbsp; <span style='font-size:15;background-color:lightgray;color:black'>&nbsp;Not qualified</span><br/><span style='font-size: 18;color:black'>No -&nbsp;<span style='color:#C00000'>Continue qualifying.</div>
+            
+            <br>
+            <br>
+            
+     <!-- ---------- Line ---------- -->
+      <hr style="height:2px;border:none;color:black;background-color:black;">
+<!-- ---------- Line ---------- -->
+            
+           
+            
+<button onclick="location.href='https://docs.google.com/spreadsheets/d/1R9IhkiqGo4MDo1JBDnJBIrJrD6fr5EYuRjVjh84unfE/edit?usp=sharing'" type="button">
+         Schedule & Metrics</button>
+            <br>
+            <span style='font-size:13; color:red'>Go to Not Ready & dispo call before clicking</span>
+            
+         
+<!-- [END] [END] [END] lang= html | Actual Page/Script [END] [END] [END] -->
